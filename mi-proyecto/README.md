@@ -1,6 +1,6 @@
 # Acerca de este proyecto
 Sitio web del Restaurante Paquita
-Tiene varias paginas incluido: index.html, contacto.heml
+Tiene varias paginas incluido: `index.html`, `contacto.html`
 ## Documentacion
 
 - El archivo configuracion.conf nos indica que puertos vamos a abrir para estre proyecto
